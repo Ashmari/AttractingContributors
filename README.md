@@ -32,6 +32,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 6. Er ist wieder da
 7. Lonely Castle in the Mirror
 8. Harry Potter J. K. Rowling
+9. Digital Fortress
 
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
@@ -43,7 +44,8 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 7. Game of Thrones
 8. Head First Design Patterns 2nd Edition
 9. Pattern Recognition and Machine Learning
-10. Who Moved My Cheese
-   
+10. The Red and the Black
+11. Who Moved My Cheese
+
 
 
